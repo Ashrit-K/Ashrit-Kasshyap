@@ -1,2 +1,2 @@
-## [Resampled Portfolio Optimization and Ergodicity](index.md)
+[Resampled Portfolio Optimization and Ergodicity](index.md)
 
