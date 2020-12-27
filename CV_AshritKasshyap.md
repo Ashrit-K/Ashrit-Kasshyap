@@ -7,9 +7,7 @@ I'm a Mechanical Engineering graduate with a strong quantitative background and 
 
 ### 73 Strings, Bangalore
 
-*Sep 2019 to Present*
-
-Research Associate
+Research Associate, *Sep 2019 to Present*
 
 
 
@@ -23,9 +21,7 @@ Research Associate
 
 ### Equirus Capital, Mumbai
 
-*Jul 2019 to Aug 2019*
-
-Intern, IBD Division
+Intern - IBD Division, *Jul 2019 to Aug 2019*
 
 
 
@@ -35,9 +31,7 @@ Intern, IBD Division
 
 ### BankerBay, Bangalore
 
-*Jan 2019 to Mar 2019*
-
-Transaction Management Intern
+Transaction Management Intern, *Jan 2019 to Mar 2019*
 
 - I was part of a team which worked with various mid-market firms seeking project finance, acquisition candidates
 - Headed the pilot research project to evaluate the firm’s expansion into the sustainable and ESG investing space 
@@ -47,9 +41,7 @@ Transaction Management Intern
 
 ### PES Institute of Technology, South Campus
 
-Bachelor of Mechanical Engineering 
-
-*Jun 2014 to Jun*
+Bachelor of Mechanical Engineering, *Jun 2014 to Jun*
 
 ## Other Certifications and Skills
 
