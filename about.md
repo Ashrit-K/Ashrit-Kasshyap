@@ -7,9 +7,9 @@ This is my research graveyard.
 
 [My CV](CV_AshritKasshyap.md)
 
-[LinkedIn](https://www.linkedin.com/in/ashritkasshyap/)
+[LinkedIn](https://www.linkedin.com/in/ashritkasshyap/){:target="_blank"}
 
-[Github](https://github.com/Ashrit-K)
+[Github](https://github.com/Ashrit-K){:target="_blank"}
 
 [Mail](mailto:ashritkasshyap@gmail.com)
 

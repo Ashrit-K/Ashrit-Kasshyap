@@ -84,7 +84,7 @@ ___
 
 [email](mailto:ashritkasshyap@icloud.com)
 
-[Linkedin](https://www.linkedin.com/in/ashritkasshyap/)
+[Linkedin](https://www.linkedin.com/in/ashritkasshyap/){:target="_blank"}
 
 
 </div>
