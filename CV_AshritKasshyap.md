@@ -7,14 +7,10 @@ I'm a Mechanical Engineering graduate with a strong quantitative background and 
 
 ### 73 Strings, Bangalore
 
-
-<div style="text-align: left"> 
-
-
 *Sep 2019 to Present*
 
 Research Associate
-</div>
+
 
 
 - Business valuation of a European Machine Learning (NLP) startup, which was acquired by a Singapore based corporate
@@ -27,14 +23,10 @@ Research Associate
 
 ### Equirus Capital, Mumbai
 
-
-<div style="text-align: left">
-
-
 *Jul 2019 to Aug 2019*
 
 Intern, IBD Division
-</div>
+
 
 
 - Worked closely with the M&A team focused on Information Technology transactions and aided in broad-side research
@@ -43,14 +35,9 @@ Intern, IBD Division
 
 ### BankerBay, Bangalore
 
-
-<div style="text-align: left">
-
 *Jan 2019 to Mar 2019*
 
 Transaction Management Intern
-</div>
-
 
 - I was part of a team which worked with various mid-market firms seeking project finance, acquisition candidates
 - Headed the pilot research project to evaluate the firm’s expansion into the sustainable and ESG investing space 
@@ -60,14 +47,9 @@ Transaction Management Intern
 
 ### PES Institute of Technology, South Campus
 
-<div style="text-align: left"> 
 Bachelor of Mechanical Engineering 
 
-
-
 *Jun 2014 to Jun*
-</div>
-
 
 ## Other Certifications and Skills
 
@@ -86,10 +68,8 @@ Bachelor of Mechanical Engineering
 
 
 ___
-___
 
 [email](mailto:ashritkasshyap@icloud.com)
-
 
 [Linkedin](https://www.linkedin.com/in/ashritkasshyap/){:target="_blank"}
 
