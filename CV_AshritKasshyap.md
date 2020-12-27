@@ -11,7 +11,7 @@ I'm a Mechanical Engineering graduate with a strong quantitative background and 
 <div style="text-align: left"> 
 
 
-_Sep 2019 to Present_
+*Sep 2019 to Present*
 Research Associate
 </div>
 
@@ -30,7 +30,7 @@ Research Associate
 <div style="text-align: left">
 
 
-_Jul 2019 to Aug 2019_
+*Jul 2019 to Aug 2019*
 Intern, IBD Division
 </div>
 
@@ -44,7 +44,7 @@ Intern, IBD Division
 
 <div style="text-align: left">
 
-_Jan 2019 to Mar 2019_
+*Jan 2019 to Mar 2019*
 Transaction Management Intern
 </div>
 
@@ -52,7 +52,6 @@ Transaction Management Intern
 - I was part of a team which worked with various mid-market firms seeking project finance, acquisition candidates
 - Headed the pilot research project to evaluate the firm’s expansion into the sustainable and ESG investing space 
 
-</br>
 
 ## Academic Background
 
@@ -60,8 +59,9 @@ Transaction Management Intern
 
 <div style="text-align: left"> Bachelor of Mechanical Engineering 
 
-_Jun 2014 to Jun_</div>
-</br>
+*Jun 2014 to Jun*
+</div>
+
 
 ## Other Certifications and Skills
 
@@ -83,6 +83,7 @@ ___
 <div style="text-align: left"> 
 
 [email](mailto:ashritkasshyap@icloud.com)
+
 
 [Linkedin](https://www.linkedin.com/in/ashritkasshyap/){:target="_blank"}
 
