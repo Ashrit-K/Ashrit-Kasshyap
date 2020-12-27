@@ -12,6 +12,7 @@ I'm a Mechanical Engineering graduate with a strong quantitative background and 
 
 
 *Sep 2019 to Present*
+
 Research Associate
 </div>
 
@@ -31,6 +32,7 @@ Research Associate
 
 
 *Jul 2019 to Aug 2019*
+
 Intern, IBD Division
 </div>
 
@@ -45,6 +47,7 @@ Intern, IBD Division
 <div style="text-align: left">
 
 *Jan 2019 to Mar 2019*
+
 Transaction Management Intern
 </div>
 
@@ -57,7 +60,10 @@ Transaction Management Intern
 
 ### PES Institute of Technology, South Campus
 
-<div style="text-align: left"> Bachelor of Mechanical Engineering 
+<div style="text-align: left"> 
+Bachelor of Mechanical Engineering 
+
+
 
 *Jun 2014 to Jun*
 </div>
@@ -80,12 +86,11 @@ Transaction Management Intern
 
 
 ___
-<div style="text-align: left"> 
+___
 
 [email](mailto:ashritkasshyap@icloud.com)
 
 
 [Linkedin](https://www.linkedin.com/in/ashritkasshyap/){:target="_blank"}
 
-
-</div>
+[Home](index.md)
